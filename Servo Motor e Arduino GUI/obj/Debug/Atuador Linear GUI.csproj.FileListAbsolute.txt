@@ -1,0 +1,25 @@
+C:\Users\lm2cc\source\repos\Atuador-Linear-e-Arduino\Servo Motor e Arduino GUI\obj\Debug\Atuador Linear GUI.csproj.AssemblyReference.cache
+C:\Users\lm2cc\source\repos\Atuador-Linear-e-Arduino\Servo Motor e Arduino GUI\obj\Debug\Atuador Linear GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\lm2cc\source\repos\Atuador-Linear-e-Arduino\Servo Motor e Arduino GUI\bin\Debug\Servo Motor e Arduino GUI.exe.config
+C:\Users\lm2cc\source\repos\Atuador-Linear-e-Arduino\Servo Motor e Arduino GUI\bin\Debug\Servo Motor e Arduino GUI.exe.manifest
+C:\Users\lm2cc\source\repos\Atuador-Linear-e-Arduino\Servo Motor e Arduino GUI\bin\Debug\Servo Motor e Arduino GUI.application
+C:\Users\lm2cc\source\repos\Atuador-Linear-e-Arduino\Servo Motor e Arduino GUI\bin\Debug\Servo Motor e Arduino GUI.exe
+C:\Users\lm2cc\source\repos\Atuador-Linear-e-Arduino\Servo Motor e Arduino GUI\bin\Debug\Servo Motor e Arduino GUI.pdb
+C:\Users\lm2cc\source\repos\Atuador-Linear-e-Arduino\Servo Motor e Arduino GUI\bin\Debug\aa\Servo Motor e Arduino GUI.resources.dll
+C:\Users\lm2cc\source\repos\Atuador-Linear-e-Arduino\Servo Motor e Arduino GUI\bin\Debug\bm\Servo Motor e Arduino GUI.resources.dll
+C:\Users\lm2cc\source\repos\Atuador-Linear-e-Arduino\Servo Motor e Arduino GUI\bin\Debug\pt-BR\Servo Motor e Arduino GUI.resources.dll
+C:\Users\lm2cc\source\repos\Atuador-Linear-e-Arduino\Servo Motor e Arduino GUI\obj\Debug\Servo_Motor_e_Arduino_GUI.Form1.resources
+C:\Users\lm2cc\source\repos\Atuador-Linear-e-Arduino\Servo Motor e Arduino GUI\obj\Debug\Servo_Motor_e_Arduino_GUI.Properties.Resources.resources
+C:\Users\lm2cc\source\repos\Atuador-Linear-e-Arduino\Servo Motor e Arduino GUI\obj\Debug\Servo_Motor_e_Arduino_GUI.Form1.aa.resources
+C:\Users\lm2cc\source\repos\Atuador-Linear-e-Arduino\Servo Motor e Arduino GUI\obj\Debug\Servo_Motor_e_Arduino_GUI.Form1.bm.resources
+C:\Users\lm2cc\source\repos\Atuador-Linear-e-Arduino\Servo Motor e Arduino GUI\obj\Debug\Servo_Motor_e_Arduino_GUI.Form1.pt-BR.resources
+C:\Users\lm2cc\source\repos\Atuador-Linear-e-Arduino\Servo Motor e Arduino GUI\obj\Debug\Atuador Linear GUI.csproj.GenerateResource.cache
+C:\Users\lm2cc\source\repos\Atuador-Linear-e-Arduino\Servo Motor e Arduino GUI\obj\Debug\Atuador Linear GUI.csproj.CoreCompileInputs.cache
+C:\Users\lm2cc\source\repos\Atuador-Linear-e-Arduino\Servo Motor e Arduino GUI\obj\Debug\aa\Servo Motor e Arduino GUI.resources.dll
+C:\Users\lm2cc\source\repos\Atuador-Linear-e-Arduino\Servo Motor e Arduino GUI\obj\Debug\bm\Servo Motor e Arduino GUI.resources.dll
+C:\Users\lm2cc\source\repos\Atuador-Linear-e-Arduino\Servo Motor e Arduino GUI\obj\Debug\pt-BR\Servo Motor e Arduino GUI.resources.dll
+C:\Users\lm2cc\source\repos\Atuador-Linear-e-Arduino\Servo Motor e Arduino GUI\obj\Debug\Servo Motor e Arduino GUI.exe.manifest
+C:\Users\lm2cc\source\repos\Atuador-Linear-e-Arduino\Servo Motor e Arduino GUI\obj\Debug\Servo Motor e Arduino GUI.application
+C:\Users\lm2cc\source\repos\Atuador-Linear-e-Arduino\Servo Motor e Arduino GUI\obj\Debug\Servo Motor e Arduino GUI.exe
+C:\Users\lm2cc\source\repos\Atuador-Linear-e-Arduino\Servo Motor e Arduino GUI\obj\Debug\Servo Motor e Arduino GUI.pdb
+C:\Users\lm2cc\source\repos\Atuador-Linear-e-Arduino\Servo Motor e Arduino GUI\obj\Debug\Servo_Motor_e_Arduino_GUI.Estaca_Torpedo_1pra2.resources
